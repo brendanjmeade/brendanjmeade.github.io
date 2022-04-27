@@ -17,7 +17,6 @@ social: false  # includes social icons at the bottom of the page
 Professor at Harvard University
 <!-- Research Scientist at Google -->
 
-My work is focused on understanding the space-time evolution the earthquake cycle and quantifying future seismic activity.
+My work is focused on computational and mathematical approaches understanding the space-time evolution the earthquake cycle and quantifying future seismic activity.
 
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
