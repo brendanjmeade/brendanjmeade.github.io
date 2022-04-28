@@ -14,9 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Professor at Harvard University
-<!-- Research Scientist at Google -->
-
-My work is focused on computational and mathematical approaches understanding the space-time evolution the earthquake cycle and quantifying future seismic activity.
+I work as a professor at Harvard University and my work is focused on computational and mathematical approaches understanding the space-time evolution the earthquake cycle and quantifying future seismic activity.
 
 
