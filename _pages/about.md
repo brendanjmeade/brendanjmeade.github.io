@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -16,4 +15,4 @@ social: false  # includes social icons at the bottom of the page
 
 I work as a professor at Harvard University and my work is focused on computational and mathematical approaches understanding the space-time evolution the earthquake cycle and quantifying future seismic activity.
 
-
+My teaching covers natural disasters, earthquake science, dynamical systems, artificial intelligence, and python programming.
