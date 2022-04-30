@@ -1,30 +1,22 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title:  A renewed search for earthquake precursors
+date:   2018-10-02 9:40:16
+description: 
+tags: 
+categories: 
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The past 10 years have seen renewed interest in the detection of potential earthquake precursors from scientists at the University of Tokyo, Université Joseph Fourier, Berkeley, University of Hokkaido, Stanford, Australian National University, the US Geological Survey and the Carnegie Institution.  Remarkably these studies haven’t been marked by overhyped press releases, but rather the gradual reporting of diverse earth behaviors that have putatively been observed prior to some large earthquakes.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+This search is nothing new and countless earthquake precursors candidates have been proposed.  Most of these have been resigned as post-hoc explanations...at best. But the search has continued because lurking behind all of these works is the idea that if the precursory observations were to robustly generalize this would move us forward along the path towards earthquake prediction. Over the past decade possible pre-earthquake correlative observations spanning the solid and fluid earth systems have included:
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+- _Atmospheric pressure from storms_ (Liu et al., 2009)
+- _Ionospheric behavior_ (Heki, 2011; Heki and Enomoto, 2013)
+- _Transient crustal motion_ (Mavrotomartis et al., 2015)
+- _River water chemistry_ (Ingebritsen and Manga, 2014)
+- _Earthquake rates_ (Bouchon et al., 2011)
+- _Earthquake faulting styles_ (Lister et al., 2018)
+- _Solid earth tides_ (Ide et al., 2016)
+- _Snowmelt_ (Mongomery-Brown et al., 2019)
 
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+In all of these cases, the sample sizes are small...really, really, really small...like 1-3 events.  We can definitely do better than that and we need to. There’s now near continuous reporting of high-quality data at global scale...and tons of it.  I'm not sure what’ll happen but it’s exciting to renewed interest in the must fundamental and important of all earthquake science problems.
