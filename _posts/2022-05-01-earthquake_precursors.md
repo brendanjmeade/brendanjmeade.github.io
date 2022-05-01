@@ -1,11 +1,21 @@
 ---
 layout: post
 title:  A renewed search for earthquake precursors
-date:   2018-10-02 9:40:16
+date:   2022-05-01 9:40:16
 description: 
 tags: 
 categories: 
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/posts/san_francisco_earthquake_destruction.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Aftermath of the 1906 San Francisco earthquake.
+</div>
+
 The past 10 years have seen renewed interest in the detection of potential earthquake precursors from scientists at the University of Tokyo, Université Joseph Fourier, Berkeley, University of Hokkaido, Stanford, Australian National University, the US Geological Survey and the Carnegie Institution.  Remarkably these studies haven’t been marked by overhyped press releases, but rather the gradual reporting of diverse earth behaviors that have putatively been observed prior to some large earthquakes.
 
 This search is nothing new and countless earthquake precursors candidates have been proposed.  Most of these have been resigned as post-hoc explanations...at best. But the search has continued because lurking behind all of these works is the idea that if the precursory observations were to robustly generalize this would move us forward along the path towards earthquake prediction. Over the past decade possible pre-earthquake correlative observations spanning the solid and fluid earth systems have included:
