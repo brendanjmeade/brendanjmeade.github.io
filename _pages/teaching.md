@@ -9,7 +9,7 @@ nav: true
 
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
-    <img src="/assets/img/classes/science5.png" alt="">
+    {% include figure.html path="/assets/img/classes/science5.png" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div>
     <h4>An introduction to computation for contemporary science</h4>
@@ -22,7 +22,7 @@ nav: true
 
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
-    <img src="/assets/img/classes/natural_disasters.png" alt="">
+    {% include figure.html path="/assets/img/classes/natural_disasters.png" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div>
     <h4>Natural disasters</h4>
@@ -36,7 +36,7 @@ nav: true
 
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
-    <img src="/assets/img/classes/science_in_the_age_of_ai.png" alt="">
+    {% include figure.html path="/assets/img/classes/science_in_the_age_of_ai.png" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div>
     <h4>Science in the age of artificial intelligence</h4>
@@ -50,7 +50,7 @@ nav: true
 
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
-    <img src="/assets/img/classes/earthquakes_and_faulting.png" alt="">
+    {% include figure.html path="/assets/img/classes/earthquakes_and_faulting.png" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div>
     <h4>Earthquakes and faulting</h4>
@@ -66,7 +66,7 @@ nav: true
 
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
-    <img src="/assets/img/classes/mathematical_modeling.png" alt="">
+    {% include figure.html path="/assets/img/classes/mathematical_modeling.png" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div>
     <h4>Mathematical modeling</h4>
@@ -78,9 +78,10 @@ in the social sciences such as economics, scheduling, renewal theory.</p>
 <br>
 <br>
 
+
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
-    <img src="/assets/img/classes/missing_matlab_course.png" alt="">
+    {% include figure.html path="/assets/img/classes/missing_matlab_course.png" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div>
     <h4>The missing Matlab course</h4>
@@ -88,3 +89,4 @@ in the social sciences such as economics, scheduling, renewal theory.</p>
 </p>
   </div>
 </div>
+
