@@ -16,11 +16,11 @@ categories:
     Aftermath of the 1906 San Francisco earthquake.
 </div>
 
-The past 10 years have seen renewed interest in the detection of potential earthquake precursors from scientists at the University of Tokyo, Université Joseph Fourier, Berkeley, University of Hokkaido, Stanford, Australian National University, the US Geological Survey and the Carnegie Institution.  Remarkably these studies haven’t been marked by overhyped press releases, but rather the gradual reporting of diverse earth behaviors that have putatively been observed prior to some large earthquakes.
+The past 20 years have seen renewed interest in the detection of potential earthquake precursors from scientists at the University of Tokyo, Université Joseph Fourier, Berkeley, University of Hokkaido, Stanford, Australian National University, the US Geological Survey and the Carnegie Institution.  Remarkably these studies haven’t been marked by overhyped press releases, but rather the gradual reporting of diverse earth behaviors that have putatively been observed prior to some large earthquakes.
 
 This search is nothing new and countless earthquake precursors candidates have been proposed.  Most of these have been resigned as post-hoc explanations...at best. But the search has continued because lurking behind all of these works is the idea that if the precursory observations were to robustly generalize this would move us forward along the path towards earthquake prediction. Over the past decade possible pre-earthquake correlative observations spanning the solid and fluid earth systems have included:
 
-- _Atmospheric pressure from storms_ (Liu et al., 2009)
+- _Atmospheric pressure from storms_ ([Liu et al., 2009](https://www.nature.com/articles/nature08042))
 - _Ionospheric behavior_ (Heki, 2011; Heki and Enomoto, 2013)
 - _Transient crustal motion_ (Mavrotomartis et al., 2015)
 - _River water chemistry_ (Ingebritsen and Manga, 2014)
