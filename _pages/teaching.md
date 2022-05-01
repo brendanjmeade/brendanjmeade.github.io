@@ -13,7 +13,8 @@ nav: true
   </div>
   <div>
     <h4>An introduction to computation for contemporary science</h4>
-    <p>From climate change to COVID, computation is an essential element of modern science.  It allows us to find insights in a sea of data, ask principled questions about the future, and perform experiments without a laboratory.  In this class, we’ll learn the practice of python programming, and quantitative questioning, through both data-driven and model-oriented case studies focused on the earth, the universe, and living systems.</p>
+    <p>From climate change to COVID, computation is an essential element of modern science.  It allows us to find insights in a sea of data, ask principled questions about the future, and perform experiments without a laboratory.  In this class, we’ll learn the practice of python programming, and quantitative questioning, through both data-driven and model-oriented case studies focused on the earth, the universe, and living systems.  Taught with <a href="https://eps.harvard.edu/people/jeremy-bloxham">Jeremy Bloxham.</a>
+</p>
   </div>
 </div>
 
@@ -47,6 +48,8 @@ nav: true
 <br>
 <br>
 <br>
+<br>
+
 
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
@@ -54,7 +57,7 @@ nav: true
   </div>
   <div>
     <h4>Earthquakes and faulting</h4>
-    <p>Earthquake phenomenology in the context of plate tectonics. Topics include continuum mechanics, earthquake cycle models, earthquake/tectonic geodesy, paleoseismology, source physics, fault friction, rupture dynamics.</p>
+    <p>Earthquake phenomenology in the context of plate tectonics. Topics include continuum mechanics, earthquake cycle models, earthquake/tectonic geodesy, paleoseismology, source physics, fault friction, rupture dynamics. Taught with <a href="https://structure.harvard.edu/">John Shaw</a>, <a href="http://www.seismology.harvard.edu/ishii.html">Miaki Ishii.</a>, and <a href="http://esag.harvard.edu/rice/">Jim Rice.</a></p>
   </div>
 </div>
 
@@ -62,7 +65,7 @@ nav: true
 <br>
 <br>
 <br>
-<br>
+
 
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
@@ -71,10 +74,11 @@ nav: true
   <div>
     <h4>Mathematical modeling</h4>
     <p>Mathematical models are ubiquitous, providing a quantitative framework for understanding, prediction and decision making in nearly every aspect of life, ranging from timing traffic lights, to controlling the spread of disease, to climate, and increasingly
-in the social sciences such as economics, scheduling, renewal theory.</p>
+in the social sciences such as economics, scheduling, renewal theory. Taught with <a href="http://www.people.fas.harvard.edu/~kuang/">Zhiming Kuang</a> and <a href="https://softmath.seas.harvard.edu/">Lakshminarayanan Mahadevan</a>.</p>
   </div>
 </div>
 
+<br>
 <br>
 <br>
 
@@ -85,7 +89,7 @@ in the social sciences such as economics, scheduling, renewal theory.</p>
   </div>
   <div>
     <h4>The missing Matlab course</h4>
-    <p>Being able to write a working program is not just about syntax of the programming language but involves other skills such as debugging and being able to convert concepts and algebra to a sequence of commands. This is focused on developing Matlab programming techniques for a diverse set of applied scientific problems. 
+    <p>Being able to write a working program is not just about syntax of the programming language but involves other skills such as debugging and being able to convert concepts and algebra to a sequence of commands. This is focused on developing Matlab programming techniques for a diverse set of applied scientific problems. Taught with <a href="http://www.seismology.harvard.edu/ishii.html">Miaki Ishii.</a>
 </p>
   </div>
 </div>
