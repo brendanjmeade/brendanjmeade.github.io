@@ -39,7 +39,7 @@ nav: true
     <img src="/assets/img/classes/science_in_the_age_of_ai.png" alt="">
   </div>
   <div>
-    <h4>Science in the Age of Artificial Intelligence</h4>
+    <h4>Science in the age of artificial intelligence</h4>
     <p>Science is focused on discovering and explaining the world around and within us. The central goal of this class is to question the classical role of the scientist as a creator of theories and consider how scientists may become interpreters of theories developed with machine learning assistance.</p>
   </div>
 </div>
@@ -83,7 +83,7 @@ in the social sciences such as economics, scheduling, renewal theory.</p>
     <img src="/assets/img/classes/missing_matlab_course.png" alt="">
   </div>
   <div>
-    <h4>The Missing Matlab Course</h4>
+    <h4>The missing Matlab course</h4>
     <p>Being able to write a working program is not just about syntax of the programming language but involves other skills such as debugging and being able to convert concepts and algebra to a sequence of commands. This is focused on developing Matlab programming techniques for a diverse set of applied scientific problems. 
 </p>
   </div>
