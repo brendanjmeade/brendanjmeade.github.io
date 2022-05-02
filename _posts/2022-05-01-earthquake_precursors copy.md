@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A renewed search for earthquake precursors
-date:   2022-05-01 9:40:16
+date:   2018-10-02 9:40:16
 description: 
 tags: 
 categories: 
