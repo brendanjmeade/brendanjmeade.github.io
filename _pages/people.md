@@ -8,8 +8,7 @@ nav: true
 
 #### Current
 _Emily Carrero Mustelier - Graduate student_
-- Research: Earthquake cycle models of Japan
-- After Harvard: Faculty, Smith College
+- Research: Large-scale imaging of earthquake cycle activity
 <br>
 <br>
 
