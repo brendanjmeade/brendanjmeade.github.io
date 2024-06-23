@@ -15,11 +15,21 @@ nav: true
 - Convenient automated block closure
 - Memory efficient H-matrix compression 
 - Standardized file formats
-- Beautiful GMT-based visualization
 - Fast C/Fortran elastic calculations 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/software/celeri.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+<br>
+
+
+#### skies - [github](https://github.com/brendanjmeade/skies)
+- A python-based package designed to generate three-dimensional earthquake sequences in time across geometrically complex fault systems using kinematically constrained loading and emperical statistical models.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/software/skies.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
