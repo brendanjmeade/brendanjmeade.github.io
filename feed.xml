@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://brendanjmeade.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://brendanjmeade.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-23T21:19:30+00:00</updated><id>https://brendanjmeade.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">A simple model linking unsteady plate motions and earthquake supercycles</title><link href="https://brendanjmeade.github.io/blog/2022/earthquake_supercycles/" rel="alternate" type="text/html" title="A simple model linking unsteady plate motions and earthquake supercycles" /><published>2022-05-02T09:40:16+00:00</published><updated>2022-05-02T09:40:16+00:00</updated><id>https://brendanjmeade.github.io/blog/2022/earthquake_supercycles</id><content type="html" xml:base="https://brendanjmeade.github.io/blog/2022/earthquake_supercycles/"><![CDATA[<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/posts/earthquake_clusters-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/posts/earthquake_clusters-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/posts/earthquake_clusters-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/posts/earthquake_clusters.png" title="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    The emergence of temporal earthquake clusters in a 1D rate and state friction model with a sinusoidal driving velocity.  The orange line is the harmonically varying driving velocity and the blue line shows the cumulative fault displacement accrued through multiple earthquake cycles.
+</div>
+
+<p>One of the reasons that earthquake prediction is hard is that the occurrence of large earthquakes is rarely periodic (<a href="https://www.science.org/doi/abs/10.1126/science.1218959">Berryman et al., 2012</a>).  Paleoseismic records of earthquake activity have been interpreted as consistent with the temporal clustering of large earthquakes in relative compressed time intervals within longer intervals that are sometimes called “supercycles” (<a href="https://www.science.org/doi/abs/10.1126/science.1163589">Sieh et al., 2008</a>) and two-dimensional numerical models have been developed to explain these observations (e.g., <a href="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-020-01185-3">Barbot, 2020</a>).</p>
+
+<p>A second, and seemingly independent observation, is the recent interpretations of geodetic data as containing low magnitude monthly- (<a href="https://www.nature.com/articles/s41586-020-2212-1">Bedford et al., 2020</a>) to centennial-scale (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JB023100#.YfCY_n2JXM0.twitter">Meneses-Gutierrez et al., 2022</a>) deviations from steady plate motion rates.  These works have analyzed contemporary and historical data and revealed  small magnitude (~5-10%) variations surface motions over large (&gt;100 km) length scales.</p>
+
+<p>Here we describe a simple low-dimensional explanation for the emergence of temporally clustered earthquakes (supercycles) as a result of rate and state friction with harmonic time variable loading (inspired by the geodetic observations described above).  The model (<a href="https://colab.research.google.com/drive/1e2DR5Xi2qgpiudgWWxbGVNYzUPMF2t9z?usp=sharing">link to colab</a>) is the classical one-dimensional spring slider rate and state friction model with the aging law (<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB088iB12p10359">e.g., Ruina, 1983</a>) which produces a series of earthquakes that occur periodically. We modify this on one small way: Introducing a sinusoidally varying driving velocity, \(V_p = \sin(t/ T)\) where \(T\) is the period of oscillation (orange line in the figure above).  Here the period of oscillation is approximately 300 years and the amplitude of the perturbation is 1%. In this case earthquakes initially to occur periodically as they do in the steady forcing case.  However, after a period of time (approximation 30,000 years in this example) a new pattern emerges characterized by a sequence of 4 earthquakes occurring in relatively rapid succession (blue line in the figure above) followed by a period of prolonged quiescence (~1000 years).  This is analogous to the temporal pattern of large seismic events associated with supercycles.</p>
+
+<p>There is nothing exotic here and nothing not previously known from prior numerical experiments.  Rather this is a highly idealized model simple numerical model that potentially offers a simple quantitative link between recent paleoseismic and geodetic observations.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[The emergence of temporal earthquake clusters in a 1D rate and state friction model with a sinusoidal driving velocity. The orange line is the harmonically varying driving velocity and the blue line shows the cumulative fault displacement accrued through multiple earthquake cycles.]]></summary></entry><entry><title type="html">A renewed search for earthquake precursors</title><link href="https://brendanjmeade.github.io/blog/2018/earthquake_precursors-copy/" rel="alternate" type="text/html" title="A renewed search for earthquake precursors" /><published>2018-10-02T09:40:16+00:00</published><updated>2018-10-02T09:40:16+00:00</updated><id>https://brendanjmeade.github.io/blog/2018/earthquake_precursors%20copy</id><content type="html" xml:base="https://brendanjmeade.github.io/blog/2018/earthquake_precursors-copy/"><![CDATA[<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/posts/san_francisco_earthquake_destruction-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/posts/san_francisco_earthquake_destruction-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/posts/san_francisco_earthquake_destruction-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/posts/san_francisco_earthquake_destruction.png" title="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Aftermath of the 1906 San Francisco earthquake.
+</div>
+
+<p>The past 20 years have seen renewed interest in the detection of potential earthquake precursors from scientists at the University of Tokyo, Université Joseph Fourier, Berkeley, University of Hokkaido, Stanford, Australian National University, the US Geological Survey and the Carnegie Institution.  Remarkably these studies haven’t been marked by overhyped press releases, but rather the gradual reporting of diverse earth behaviors that have putatively been observed prior to some large earthquakes.</p>
+
+<p>This search is nothing new and countless earthquake precursors candidates have been proposed.  Most of these have been resigned as post-hoc explanations…at best. But the search has continued because lurking behind all of these works is the idea that if the precursory observations were to robustly generalize this would move us forward along the path towards earthquake prediction. Over the past decade possible pre-earthquake correlative observations spanning the solid and fluid earth systems have included:</p>
+
+<ul>
+  <li><em>Atmospheric pressure from storms</em> (<a href="https://www.nature.com/articles/nature08042">Liu et al., 2009</a>)</li>
+  <li><em>Ionospheric behavior</em> (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011GL047908">Heki, 2011</a>; <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgra.50578">Heki and Enomoto, 2013</a>)</li>
+  <li><em>Transient crustal motion</em> (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL066069">Mavrommatis
+ et al., 2015</a>)</li>
+  <li><em>River water chemistry</em> (<a href="https://www.nature.com/articles/ngeo2261">Ingebritsen and Manga, 2014</a>)</li>
+  <li><em>Earthquake rates</em> (<a href="https://www.science.org/doi/abs/10.1126/science.1197341">Bouchon et al., 2011</a>)</li>
+  <li><em>Earthquake faulting styles</em> (<a href="https://pubs.geoscienceworld.org/gsa/lithosphere/article/10/4/512/530503/Lineaments-and-earthquake-ruptures-on-the-East">Lister et al., 2018</a>)</li>
+  <li><em>Solid earth tides</em> (<a href="https://www.nature.com/articles/ngeo2796">Ide et al., 2016</a>)</li>
+  <li><em>Snowmelt</em> (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL082254">Montgomery-Brown et al., 2019</a>)</li>
+</ul>
+
+<p>In all of these cases, the sample sizes are small…really, really, really small…like 1-3 events.  We can definitely do better than that and we need to. There’s now near continuous reporting of high-quality data at global scale…and tons of it.  I’m not sure what’ll happen but it’s exciting to renewed interest in the must fundamental and important of all earthquake science problems.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Aftermath of the 1906 San Francisco earthquake.]]></summary></entry></feed>

@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Brendan  Meade | blog</title>
+    <title>Brendan  Meade | A simple model linking unsteady plate motions and earthquake supercycles</title>
     <meta name="author" content="Brendan  Meade" />
     <meta name="description" content="" />
 
@@ -29,7 +29,7 @@
     <!-- Styles -->
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://brendanjmeade.github.io/blog/">
+    <link rel="canonical" href="https://brendanjmeade.github.io/blog/2022/earthquake_supercycles/">
     
     <!-- Dark Mode -->
     
@@ -42,14 +42,12 @@
     <!-- Header --><header>
 
   <!-- Nav Bar -->
-  <nav id="navbar"
-    class="navbar navbar-light navbar-expand-sm fixed-top">
+  <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
     <div class="container">
       <a class="navbar-brand title font-weight-lighter" href="https://brendanjmeade.github.io/">
         <!--<span class="font-weight-bold">Brendan</span>   Meade-->Brendan  Meade</a>
       <!-- Navbar Toggle -->
-      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar top-bar"></span>
         <span class="icon-bar middle-bar"></span>
@@ -66,7 +64,7 @@
           
           <!-- Blog -->
           <li class="nav-item active">
-            <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="/blog/">blog</a>
           </li>
 
           <!-- Other pages -->
@@ -90,75 +88,51 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- _layouts/post.html -->
 
-  <div class="header-bar">
-    <h1>notes</h1>
-    <h2></h2>
-  </div>
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">A simple model linking unsteady plate motions and earthquake supercycles</h1>
+    <p class="post-meta">May 2, 2022</p>
+    <p class="post-tags">
+      <a href="/blog/2022"> <i class="fas fa-calendar fa-sm"></i> 2022 </a>
 
-  <ul class="post-list">
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2022/earthquake_supercycles/">A simple model linking unsteady plate motions and earthquake supercycles</a>
-        
-      </h3>
-      <p></p>
-      <p class="post-meta">
-        3 min read &nbsp; &middot; &nbsp;
-        May 2, 2022
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2022">
-          <i class="fas fa-calendar fa-sm"></i> 2022 </a>
-
-          
-
-          
     </p>
-    </li>
+  </header>
 
-    
+  <article class="post-content">
+    <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-    
-    
-    
-    
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/posts/earthquake_clusters-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/posts/earthquake_clusters-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/posts/earthquake_clusters-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/posts/earthquake_clusters.png" title="">
 
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2018/earthquake_precursors-copy/">A renewed search for earthquake precursors</a>
-        
-      </h3>
-      <p></p>
-      <p class="post-meta">
-        2 min read &nbsp; &middot; &nbsp;
-        October 2, 2018
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2018">
-          <i class="fas fa-calendar fa-sm"></i> 2018 </a>
+  </picture>
 
-          
+</figure>
 
-          
-    </p>
-    </li>
+    </div>
+</div>
+<div class="caption">
+    The emergence of temporal earthquake clusters in a 1D rate and state friction model with a sinusoidal driving velocity.  The orange line is the harmonically varying driving velocity and the blue line shows the cumulative fault displacement accrued through multiple earthquake cycles.
+</div>
 
-    
-  </ul>
+<p>One of the reasons that earthquake prediction is hard is that the occurrence of large earthquakes is rarely periodic (<a href="https://www.science.org/doi/abs/10.1126/science.1218959" target="_blank" rel="noopener noreferrer">Berryman et al., 2012</a>).  Paleoseismic records of earthquake activity have been interpreted as consistent with the temporal clustering of large earthquakes in relative compressed time intervals within longer intervals that are sometimes called “supercycles” (<a href="https://www.science.org/doi/abs/10.1126/science.1163589" target="_blank" rel="noopener noreferrer">Sieh et al., 2008</a>) and two-dimensional numerical models have been developed to explain these observations (e.g., <a href="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-020-01185-3" target="_blank" rel="noopener noreferrer">Barbot, 2020</a>).</p>
 
-  
+<p>A second, and seemingly independent observation, is the recent interpretations of geodetic data as containing low magnitude monthly- (<a href="https://www.nature.com/articles/s41586-020-2212-1" target="_blank" rel="noopener noreferrer">Bedford et al., 2020</a>) to centennial-scale (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JB023100#.YfCY_n2JXM0.twitter" target="_blank" rel="noopener noreferrer">Meneses-Gutierrez et al., 2022</a>) deviations from steady plate motion rates.  These works have analyzed contemporary and historical data and revealed  small magnitude (~5-10%) variations surface motions over large (&gt;100 km) length scales.</p>
+
+<p>Here we describe a simple low-dimensional explanation for the emergence of temporally clustered earthquakes (supercycles) as a result of rate and state friction with harmonic time variable loading (inspired by the geodetic observations described above).  The model (<a href="https://colab.research.google.com/drive/1e2DR5Xi2qgpiudgWWxbGVNYzUPMF2t9z?usp=sharing" target="_blank" rel="noopener noreferrer">link to colab</a>) is the classical one-dimensional spring slider rate and state friction model with the aging law (<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB088iB12p10359" target="_blank" rel="noopener noreferrer">e.g., Ruina, 1983</a>) which produces a series of earthquakes that occur periodically. We modify this on one small way: Introducing a sinusoidally varying driving velocity, \(V_p = \sin(t/ T)\) where \(T\) is the period of oscillation (orange line in the figure above).  Here the period of oscillation is approximately 300 years and the amplitude of the perturbation is 1%. In this case earthquakes initially to occur periodically as they do in the steady forcing case.  However, after a period of time (approximation 30,000 years in this example) a new pattern emerges characterized by a sequence of 4 earthquakes occurring in relatively rapid succession (blue line in the figure above) followed by a period of prolonged quiescence (~1000 years).  This is analogous to the temporal pattern of large seismic events associated with supercycles.</p>
+
+<p>There is nothing exotic here and nothing not previously known from prior numerical experiments.  Rather this is a highly idealized model simple numerical model that potentially offers a simple quantitative link between recent paleoseismic and geodetic observations.</p>
+
+
+  </article>
 
 </div>
 
