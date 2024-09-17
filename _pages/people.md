@@ -15,7 +15,7 @@ _Emily Carrero Mustelier - Graduate student_
   <br>
   <br>
 
-_Elizabeth Busky - Research Group Coordinator_
+_Simone Rivard - Research Group Coordinator_
 <br>
 <br>
 
@@ -69,39 +69,3 @@ _Eileen Evans - Graduate student_
   <br>
   <br>
 
-_Mika Kasumov (Undergraduate student, Harvard)_ 
-
-- Research: Computational approaches to efficient drainage area calculations
-- After Harvard: Harvard Business School
-  
-  <br>
-  <br>
-
-_Laura Larsen-Strecker (Undergraduate student, Harvard)_
-
-- Research: Rivers systems response to earthquakes in Nepal
-- After Harvard: Rowing coach
-  
-  <br>
-  <br>
-
-_Amy Ferrick (Undergraduate student, UC Berkeley)_
-
-- Research: Processing and analysis of high-frequency GPS data
-- After Harvard: Graduate student at Yale
-  
-  <br>
-  <br>
-
-_Ariel Espindola Mercado (Undergraduate student, Cal State Bakersfield)_
-
-- Research: Processing and analysis of high-frequency GPS data
-- After Harvard: Continuing undergraduate education
-  
-  <br>
-  <br>
-
-_Mark Dyson (Undergraduate student, Carelton College)_
-
-- Research: Interactive earthquake modeling
-- After Harvard: Rocky Mountain Institute
