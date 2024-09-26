@@ -25,4 +25,4 @@ I work as a professor at Harvard University and with a focus on computational an
 
 My teaching covers natural disasters, earthquake science, mathematical modeling, applied machine learning, and python programming.
 
-**I have open positions for multiple graduate students and postdoc.  Please email if interested.**
+**I have open positions for multiple graduate students and postdocs.  Please email if interested.**
