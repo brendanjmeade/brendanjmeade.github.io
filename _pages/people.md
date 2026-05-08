@@ -11,6 +11,14 @@ nav: true
 Emily Carrero Mustelier - Graduate student
 
 - Research: Large-scale imaging of earthquake cycle activity in Anatolia
+
+Min Lee - Graduate student
+
+- Research: Kinematics and evolution of fractal fault systems
+
+Brayden Noh - Graduate student
+
+- Research: Topography evolution through the earthquake cycle
   
   <br>
 
